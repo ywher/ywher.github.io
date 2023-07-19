@@ -1,5 +1,5 @@
 ---
-2019 3rd International Symposium on Autonomous Systems (ISAS). IEEE, 2019: 323-328.2019 3rd International Symposium on Autonomous Systems (ISAS). IEEE, 2019: 323-328.permalink: /
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
