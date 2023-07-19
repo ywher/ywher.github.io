@@ -41,6 +41,8 @@ My research interest includes scene segmentation, domain adaptation and their ap
 
 * *[Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9916201/)* , **Weihao Yan**, Yeqiang Qian*, Chunxiang Wang, Ming Yang*,  **IEEE Transactions on Intelligent Transportation Systems** , Jan. 2023, 24(1):752-763
 * *[Human-object Interaction Recognition Using Multitask Neural Network](https://ieeexplore.ieee.org/abstract/document/8757767)*, **Weihao Yan,** Yue Gao*, Qiming Liu, 2019 3rd International Symposium on Autonomous Systems (ISAS). IEEE, 2019: 323-328.
+* Yan W, Qian Y, Wang C, et al. SUNet: Scale-aware Unified Network for Panoptic Segmentation[J]. arXiv preprint arXiv:2209.02877, 2022.
+* Li T, Yan W, Lei Z, et al. Efficient Generalization Improvement Guided by Random Weight Perturbation[J]. arXiv preprint arXiv:2211.11489, 2022.
 
 # 🎖 Honors and Awards
 
