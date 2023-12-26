@@ -1,19 +1,7 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+---
 <span class='anchor' id='about-me'></span>
 
 I obtained the bachelor's degree in Automation from Shanghai Jiao Tong University in 2020. Now I am a Ph.D. student in Control Science and Engineering Shanghai Jiao Tong University, supervised by Professor Ming Yang.
@@ -35,14 +23,16 @@ My research interest includes scene segmentation, domain adaptation and their ap
 
 # 🔥 News
 
-- Nothing happens recently, keep focus, be present.
+- Our paper is accepted by IEEE Transactions on Intelligent Vehicles on December 15, 2023. 🔔🔔🔔🎉🎉🎉
 
 # 📝 Publications
 
-* *[Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9916201/)* , **Weihao Yan**, Yeqiang Qian*, Chunxiang Wang, Ming Yang*,  **IEEE Transactions on Intelligent Transportation Systems** , Jan. 2023, 24(1):752-763
+* *[SAM4UDASS: When SAM Meets Unsupervised Domain Adaptive Semantic Segmentation in Intelligent Vehicles](https://ieeexplore.ieee.org/document/10366854)*, **Weihao YAN**, Yeqiang QIAN*, Hanyang ZHUANG, Chunxiang WANG, Ming YANG*, **IEEE Transactions on Intelligent Vehicles** , DOI:10.1109/TIV.2023.3344754
+* *[TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation](https://ieeexplore.ieee.org/abstract/document/10341966)*, Changlin LI, Yeqiang QIAN*, Cong SUN, **Weihao YAN**, Chunxiang WANG, Ming YANG, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems ( **IROS2023** ), Oct. 1-5, 2023, Detroit, USA
+* *[Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9916201/)*, **Weihao Yan**, Yeqiang Qian*, Chunxiang Wang, Ming Yang*,  **IEEE Transactions on Intelligent Transportation Systems** , Jan. 2023, 24(1):752-763
 * *[Human-object Interaction Recognition Using Multitask Neural Network](https://ieeexplore.ieee.org/abstract/document/8757767)*, **Weihao Yan,** Yue Gao*, Qiming Liu, 2019 3rd International Symposium on Autonomous Systems (ISAS). IEEE, 2019: 323-328.
-* Yan W, Qian Y, Wang C, et al. SUNet: Scale-aware Unified Network for Panoptic Segmentation[J]. arXiv preprint arXiv:2209.02877, 2022.
-* Li T, Yan W, Lei Z, et al. Efficient Generalization Improvement Guided by Random Weight Perturbation[J]. arXiv preprint arXiv:2211.11489, 2022.
+* *[SUNet: Scale-aware Unified Network for Panoptic Segmentation](https://arxiv.org/abs/2209.02877)*. **Weihao Yan**, Yeqiang Qian, Chunxiang Wang, Ming Yang*,  arXiv preprint arXiv:2209.02877, 2022.
+* *[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=VcuScWOJfl)*. Tao Li, **Weihao Yan**, Qinghua Tao, Zehao Lei, Yingwen Wu, Kun Fang, Mingzhen He, Xiaolin Huang, OPT 2023: Optimization for Machine Learning.
 
 # 🎖 Honors and Awards
 
